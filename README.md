@@ -28,3 +28,6 @@ java -jar WebCrawler-v0.1-alpha-jar-with-dependencies
 - It supports as many pictures as you want
 - Select top links from this day, week, month, year or all time best
 
++ 웹에서 이미지를 다운받아서 사용자에게 반환하는 프로그램을 만들기 위하여 포크!
+
+
